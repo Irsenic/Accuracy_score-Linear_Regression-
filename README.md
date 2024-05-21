@@ -1,4 +1,4 @@
-# Accuracy_score-Linear_Regression-
+# Description
 The idea behind this small project is that I used the Linear Regression model to predict the accuracy scores of the titanic dataset in different scenarios. Basically, I have filled in the missing values of the 'Age' column of the titanic dataset in three ways and tried to implement Logistic Regression on ll these cases to predict the accuracy scores.
 
 The dataset which I used was a trimmed dataset from the original titanic dataset consisting only the columns; 'Age','Fare' and 'Survived'.
